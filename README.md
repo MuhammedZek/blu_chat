@@ -1,6 +1,6 @@
 # flutter_blue_app
 
-A new Flutter application.
+a chat app with the arduino or raspberry pi via Bluetooth
 
 ## Getting Started
 
